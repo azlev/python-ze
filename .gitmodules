@@ -1,0 +1,3 @@
+[submodule "protobuff-ze"]
+	path = protobuff-ze
+	url = git@github.com:azlev/protobuff-ze.git
